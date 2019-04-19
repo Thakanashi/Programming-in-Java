@@ -1,0 +1,5 @@
+Alg1: Algorithm for adding two matrices
+Alg2: Algorithm for finding the lowest positive value missing from an list
+Alg3: Algorithm for finding number of repeated string matches
+Alg4: Algorithm for finding indexes of numbers from array which sum up to a given target
+Alg5: Algorithm for measuring time of five soring algorithms in optimistic, pesimistic and realistic case
