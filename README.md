@@ -6,5 +6,6 @@ Projects written in Java for "Programming in Java" subject
 * [Lab3&5](https://github.com/Thakanashi/Programming-in-Java/tree/master/Lab3%265) - Five algorithms with Junit tests
 * [Lab4](https://github.com/Thakanashi/Programming-in-Java/tree/master/Lab4/SciCalcu) - Scientific calculator with recognition of mathematical operations based on mXparser library. (GUI written in Swing)
 * [Lab7](https://github.com/Thakanashi/Programming-in-Java/tree/master/Lab7/MonteCarlo) - Program which using Monte Carlo simulation to calculate Batman Equation (GUI written in JavaFX)
+<img src="Example%20of%20Monte%20Carlo%20Simulation.png" witdh="600" height="400">
 
 
