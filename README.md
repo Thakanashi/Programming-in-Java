@@ -14,5 +14,5 @@ Projects written in Java for "Programming in Java" subject
 * [Lab7](https://github.com/Thakanashi/Programming-in-Java/tree/master/Lab7/MonteCarlo) - Program which using Monte Carlo simulation to calculate Batman Equation (GUI written in JavaFX)
 <img src=Images/Example%20of%20Monte%20Carlo%20Simulation.png witdh="600" height="400">
 
-* [Lab10](https://github.com/Thakanashi/Programming-in-Java/tree/master/Lab10%20(Spring%20boot)/ImageEditor) - Rest Image Editor written with using Spring Boot framework
+* [Lab10](https://github.com/Thakanashi/Programming-in-Java/tree/master/Lab10%20(Spring%20boot)/ImageEditor) - Rest Image Editor using Spring Boot framework
 
